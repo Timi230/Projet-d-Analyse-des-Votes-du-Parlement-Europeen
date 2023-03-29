@@ -1,0 +1,12 @@
+Concernant le Parlement européen :
+
+https://www.europarl.europa.eu/portal/fr
+https://www.europarl.europa.eu/meps/fr/directory
+
+Concernant le capture sur une page html ou xml :
+
+https://beautiful-soup-4.readthedocs.io/en/latest/
+
+Concernant le dataset :
+
+https://cadmus.eui.eu/handle/1814/74918
