@@ -1,0 +1,661 @@
+Age,Country,Party,EPG,Vote
+46,Poland,Independent,EPP,1
+51,Bulgaria,Citizens for European Development of Bulgaria,EPP,1
+41,Italy,Forza Italia,EPP,2
+56,Italy,Lega,IDG,2
+31,Malta,Partit Laburista,S&D,2
+70,Spain,Vox,ECR,1
+55,Spain,Partido Socialista Obrero Español,S&D,2
+51,United Kingdom,Green Party,Greens/EFA,2
+43,Sweden,Centerpartiet,REG,2
+67,Bulgaria,Union of Democratic Forces,EPP,1
+66,France,Régions et Peuples Solidaires,Greens/EFA,2
+38,Bulgaria,Movement for Rights and Freedoms,REG,2
+55,United Kingdom,Scottish National Party,Greens/EFA,2
+66,Portugal,Partido Social Democrata,EPP,2
+58,Latvia,Gods kalpot Rīgai,S&D,2
+51,Germany,Alternative für Deutschland,IDG,2
+57,United Kingdom,Sinn Féin,None,2
+33,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+35,France,Rassemblement national,IDG,1
+40,Greece,PASOK-KINAL,S&D,2
+61,Belgium,Vlaams Belang,IDG,2
+63,Estonia,Eesti Reformierakond,REG,2
+66,Hungary,Demokratikus Koalíció,S&D,2
+53,Belgium,Parti Socialiste,S&D,2
+49,Spain,Partido Popular,EPP,2
+45,Belgium,Christlich Soziale Partei,EPP,2
+48,Poland,Platforma Obywatelska,EPP,2
+46,Romania,Uniunea Salvați România,REG,1
+55,Greece,Coalition of the Radical Left,The Left,2
+52,Greece,Nea Demokratia,EPP,2
+30,France,La France Insoumise,The Left,2
+56,Lithuania,Lietuvos Respublikos liberalų sąjūdis,REG,2
+53,Romania,Partidul Social Democrat,S&D,2
+43,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,2
+49,Italy,Lega,IDG,2
+46,Poland,,S&D,2
+24,France,Rassemblement national,IDG,1
+51,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+54,Spain,EH BILDU,The Left,2
+63,Italy,Partito Democratico,S&D,2
+68,Romania,Partidul Mișcarea Populară,EPP,1
+52,Italy,Lega,IDG,2
+49,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
+42,France,,NI,1
+70,United Kingdom,Liberal Democrats,REG,2
+54,Germany,Alternative für Deutschland,IDG,2
+49,Germany,Freie Demokratische Partei,REG,1
+48,Italy,Movimento 5 Stelle,NI,2
+39,France,Rassemblement national,IDG,1
+67,Poland,,S&D,2
+34,France,Les Républicains,EPP,1
+44,Romania,Partidul Social Democrat,S&D,2
+33,Italy,Partito Democratico,S&D,2
+37,Spain,Partido Popular,EPP,2
+65,United Kingdom,Liberal Democrats,REG,2
+51,Slovakia,SMER-Sociálna demokracia,S&D,3
+43,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+36,Netherlands,Christen Democratisch Appèl,EPP,2
+53,Germany,Liberal-Conservative Refomists,ECR,2
+50,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+54,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,2
+27,Austria,Österreichische Volkspartei,EPP,1
+43,Poland,,S&D,2
+45,Poland,,ECR,1
+49,France,La République en marche,REG,2
+58,Spain,Partido Nacionalista Vasco,REG,1
+44,Slovakia,SPOLU – občianska demokracia,EPP,2
+66,France,Rassemblement national,IDG,1
+58,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+52,France,Europe Écologie,Greens/EFA,2
+47,Italy,Lega,IDG,2
+47,Sweden,Vänsterpartiet,The Left,2
+63,Romania,Partidul Naţional Liberal,EPP,1
+64,Czech Republic,Svoboda a přímá demokracie,IDG,3
+59,Lithuania,Lietuvos socialdemokratų partija,S&D,2
+33,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+41,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+45,Romania,Partidul Naţional Liberal,EPP,1
+56,Slovenia,Slovenska ljudska stranka,EPP,1
+33,France,La France Insoumise,The Left,2
+46,Italy,Partito Democratico,S&D,2
+39,Italy,Lega,IDG,2
+48,Croatia,Socijaldemokratska partija Hrvatske,S&D,2
+39,Belgium,Parti du Travail de Belgique,The Left,2
+33,Romania,Uniunea Salvați România,REG,1
+68,Belgium,Nieuw-Vlaamse Alliantie,ECR,1
+48,France,,REG,2
+42,Germany,Piratenpartei Deutschland,Greens/EFA,2
+52,Slovenia,Socialni demokrati,S&D,2
+34,Belgium,Ecologistes Confédérés pour l'Organisation de Luttes Originales,Greens/EFA,2
+56,United Kingdom,Liberal Democrats,REG,2
+51,Poland,Prawo i Sprawiedliwość,ECR,1
+63,France,Rassemblement national,IDG,1
+60,France,Mouvement Démocrate,REG,2
+36,Germany,Alternative für Deutschland,IDG,2
+78,Germany,Ökologisch-Demokratische Partei,Greens/EFA,2
+49,Romania,Partidul Naţional Liberal,EPP,1
+63,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+59,United Kingdom,Liberal Democrats,REG,2
+27,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+41,Romania,Partidul Naţional Liberal,EPP,1
+66,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+44,Spain,Vox,ECR,1
+79,Poland,Platforma Obywatelska,EPP,1
+46,Italy,Azione,REG,3
+44,Italy,Lega,IDG,2
+50,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
+45,France,Liste Renaissance,REG,2
+59,France,Europe Écologie,Greens/EFA,2
+40,Italy,Forza Italia,EPP,2
+42,Ireland,Sinn Féin,None,2
+46,Portugal,Partido Socialista,S&D,2
+64,Portugal,Partido Social Democrata,EPP,2
+51,Malta,Partit Nazzjonalista,EPP,1
+43,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+34,Italy,Movimento 5 Stelle,NI,2
+67,Spain,Partido Popular,EPP,2
+37,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+32,Italy,Lega,IDG,2
+30,Portugal,Partido Socialista,S&D,2
+57,France,Mouvement Démocrate,REG,2
+34,Netherlands,Partij van de Arbeid,S&D,2
+37,France,La France Insoumise,The Left,2
+44,Czech Republic,Ano 2011,REG,1
+55,Belgium,Mouvement Réformateur,REG,2
+65,Italy,Partito Democratico,S&D,2
+44,United Kingdom,Green Party,Greens/EFA,2
+61,Denmark,"Venstre, Danmarks Liberale Parti",REG,2
+69,Poland,Sojusz Lewicy Demokratycznej - Unia Pracy,S&D,2
+50,Romania,Uniunea Salvați România,REG,1
+50,Romania,Partidul Social Democrat,S&D,3
+54,France,Les centristes,EPP,2
+71,France,,NI,1
+51,Italy,Lega,IDG,2
+64,United Kingdom,Labour Party,S&D,2
+45,France,Europe Écologie,Greens/EFA,2
+35,Italy,Independent,Greens/EFA,2
+57,Italy,Partito Democratico,S&D,2
+52,Romania,PRO Romania,S&D,2
+31,Hungary,Momentum,REG,2
+56,Ireland,Green Party,Greens/EFA,2
+30,Malta,Partit Laburista,S&D,2
+61,Netherlands,ChristenUnie,EPP,2
+43,Malta,Partit Laburista,S&D,2
+51,Ireland,Independents for change,The Left,2
+50,Italy,Independent,Greens/EFA,2
+38,United Kingdom,Labour Party,S&D,2
+37,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,2
+48,France,Les Républicains,EPP,1
+66,Italy,Lega,IDG,2
+67,Czech Republic,Svoboda a přímá demokracie,IDG,2
+65,United Kingdom,Liberal Democrats,REG,2
+35,France,Liste Renaissance,REG,2
+42,France,Europe Écologie,Greens/EFA,2
+42,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+40,France,Europe Écologie,Greens/EFA,2
+64,Belgium,Vlaams Belang,IDG,2
+35,Germany,DIE LINKE.,The Left,2
+43,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+53,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+69,United Kingdom,Liberal Democrats,REG,2
+43,France,Les Républicains,EPP,2
+31,Germany,Christlich-Soziale Union in Bayern e.V.,EPP,1
+32,Hungary,Momentum,REG,2
+50,Italy,Independent,NI,2
+50,Italy,Südtiroler Volkspartei,EPP,1
+57,United Kingdom,Green Party,Greens/EFA,2
+50,Italy,Lega,IDG,2
+55,Poland,Platforma Obywatelska,EPP,1
+33,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+56,Spain,Partido Socialista Obrero Español,S&D,2
+59,France,Liste Renaissance,REG,2
+43,Slovakia,Independent,REG,1
+40,Bulgaria,VMRO,ECR,1
+38,Austria,Österreichische Volkspartei,EPP,1
+56,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+43,Netherlands,GroenLinks,Greens/EFA,2
+61,United Kingdom,Independent,NI,1
+61,Netherlands,JA21,ECR,2
+63,Germany,DIE LINKE.,The Left,2
+37,Germany,Freie Wähler,REG,1
+44,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+36,Italy,Europa Verde,Greens/EFA,2
+49,France,Les Républicains,EPP,2
+48,Slovenia,Socialni demokrati,S&D,2
+52,Romania,Partidul Naţional Liberal,EPP,1
+53,France,Mouvement Démocrate,REG,2
+41,Sweden,Centerpartiet,REG,2
+54,Germany,Christlich-Soziale Union in Bayern e.V.,EPP,3
+52,Portugal,Partido Social Democrata,EPP,2
+40,Spain,Partido Socialista Obrero Español,S&D,2
+56,Italy,Partito Democratico,S&D,2
+36,Italy,Movimento 5 Stelle,NI,2
+41,Portugal,Partido Comunista Português,The Left,2
+57,Germany,Alternative für Deutschland,IDG,2
+43,Italy,Fratelli d'Italia,ECR,1
+55,Italy,Fratelli d'Italia,ECR,1
+69,Ireland,Fine Gael Party,EPP,2
+47,Ireland,Independent,The Left,2
+47,Croatia,Istarski demokratski sabor - Dieta democratica istriana,REG,2
+62,Poland,Prawo i Sprawiedliwość,ECR,1
+59,United Kingdom,The Brexit Party,NI,1
+43,Belgium,Christen-Democratisch & Vlaams,EPP,2
+35,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+59,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,2
+34,Denmark,Socialdemokratiet,S&D,2
+31,Italy,Movimento 5 Stelle,NI,2
+56,Denmark,"Venstre, Danmarks Liberale Parti",REG,2
+59,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+49,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+50,Spain,Partido Socialista Obrero Español,S&D,2
+31,Austria,NEOS – Das Neue Österreich,REG,2
+47,Italy,Lega,IDG,2
+42,Spain,Partido Socialista Obrero Español,S&D,2
+75,Spain,Partido Popular,EPP,2
+42,Spain,Partido Socialista Obrero Español,S&D,2
+45,Spain,Partido Socialista Obrero Español,S&D,2
+44,Spain,Partido Socialista Obrero Español,S&D,2
+52,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
+63,France,Rassemblement national,IDG,1
+65,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+58,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+51,Italy,Movimento 5 Stelle,NI,2
+56,Cyprus,Progressive Party of Working People - Left - New Forces,The Left,3
+45,Greece,Coalition of the Radical Left,The Left,2
+55,Germany,Familien-Partei Deutschlands,EPP,1
+42,Romania,USR-PLUS,REG,1
+45,Italy,Movimento 5 Stelle,NI,2
+57,United Kingdom,Liberal Democrats,REG,2
+50,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+48,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+63,United Kingdom,Labour Party,S&D,2
+44,Germany,Freie Demokratische Partei,REG,1
+40,France,Place publique,S&D,2
+67,Luxembourg,Parti démocratique,REG,2
+43,Spain,Partido Socialista Obrero Español,S&D,2
+47,Spain,Partido Socialista Obrero Español,S&D,2
+55,Spain,Partido Popular,EPP,2
+55,Italy,Lega,IDG,2
+65,Romania,Partidul Puterii Umaniste,S&D,2
+57,United Kingdom,Labour Party,S&D,2
+47,France,Rassemblement national,IDG,1
+43,Slovenia,Lista Marjana Šarca,REG,2
+54,France,Mouvement Démocrate,REG,2
+51,Italy,Partito Democratico,S&D,2
+35,Portugal,Independente,Greens/EFA,2
+68,France,Liste Renaissance,REG,2
+57,France,Parti Socialiste,S&D,2
+43,Portugal,Bloco de Esquerda,The Left,2
+40,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,2
+42,Hungary,JOBBIK MAGYARORSZÁGÉRT MOZGALOM,NI,2
+51,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+47,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+30,Germany,Freie Demokratische Partei,REG,1
+49,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+52,Austria,Freiheitliche Partei Österreichs,IDG,3
+52,Slovakia,Independent,S&D,2
+59,Finland,Perussuomalaiset,IDG,3
+58,Poland,Platforma Obywatelska,EPP,1
+48,United Kingdom,Conservative Party,ECR,1
+37,Luxembourg,Parti chrétien social luxembourgeois,EPP,2
+58,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+64,Finland,Vihreä liitto,Greens/EFA,2
+63,Romania,Partidul Naţional Liberal,EPP,1
+33,France,La République en marche,REG,2
+51,Netherlands,Partij voor de Dieren,The Left,2
+53,Austria,Sozialdemokratische Partei Österreichs,S&D,2
+64,Finland,Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti,S&D,3
+46,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+70,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+45,Poland,Polskie Stronnictwo Ludowe,EPP,1
+49,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+39,Czech Republic,Ano 2011,REG,1
+57,Germany,Christlich-Soziale Union in Bayern e.V.,EPP,1
+42,Slovakia,Progresívne Slovensko,REG,2
+55,Sweden,Miljöpartiet de gröna,Greens/EFA,2
+57,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,EPP,1
+26,Spain,Partido Socialista Obrero Español,S&D,2
+39,United Kingdom,Liberal Democrats,REG,2
+61,France,Les Républicains,EPP,2
+57,United Kingdom,Liberal Democrats,REG,2
+61,United Kingdom,Labour Party,S&D,2
+49,Bulgaria,Bulgarian Socialist Party,S&D,2
+71,Poland,Platforma Obywatelska,EPP,1
+40,Finland,Perussuomalaiset,IDG,3
+35,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,2
+47,Latvia,Attīstībai/Par!,REG,2
+35,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,2
+56,Netherlands,Democraten 66,REG,2
+52,France,Europe Écologie,Greens/EFA,2
+60,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+61,Lithuania,Independent,Greens/EFA,2
+34,Poland,Solidarna Polska Zbigniewa Ziobro,ECR,1
+58,France,Rassemblement national,IDG,1
+45,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+45,Poland,Polskie Stronnictwo Ludowe,EPP,1
+53,United Kingdom,Labour Party,S&D,2
+59,Netherlands,Partij van de Arbeid,S&D,2
+46,France,Rassemblement national,IDG,1
+30,Slovenia,Lista Marjana Šarca,REG,2
+61,Lithuania,Tėvynės sąjunga-Lietuvos krikščionys demokratai,EPP,1
+66,Poland,Prawo i Sprawiedliwość,ECR,1
+61,Slovakia,Sloboda a Solidarita,ECR,1
+41,Greece,Panhellenic Socialist Movement - Olive Tree,S&D,2
+57,Poland,Polskie Stronnictwo Ludowe,EPP,1
+57,Estonia,Sotsiaaldemokraatlik Erakond,S&D,2
+67,Latvia,Partija 'VIENOTĪBA',EPP,2
+53,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+44,Bulgaria,Democrats for Strong Bulgaria,EPP,1
+39,Belgium,Nieuw-Vlaamse Alliantie,ECR,1
+62,Austria,Österreichische Volkspartei,EPP,2
+40,France,La République en marche,REG,2
+49,Sweden,Liberalerna,REG,2
+53,Poland,Prawo i Sprawiedliwość,ECR,1
+53,Finland,Suomen Keskusta,REG,2
+60,Greece,Nea Demokratia,EPP,2
+51,Ireland,Fianna Fáil Party,REG,2
+60,France,Agir - La Droite constructive,REG,2
+38,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+67,Ireland,Fine Gael Party,EPP,2
+53,Poland,Solidarna Polska Zbigniewa Ziobro,ECR,1
+42,United Kingdom,Labour Party,S&D,2
+60,Cyprus,Progressive Party of Working People - Left - New Forces,The Left,3
+56,Poland,Prawo i Sprawiedliwość,ECR,1
+35,Czech Republic,Ano 2011,REG,1
+29,Denmark,Dansk Folkeparti,IDG,3
+37,Poland,,S&D,2
+33,Sweden,Moderaterna,EPP,2
+49,Greece,Coalition of the Radical Left,The Left,2
+39,Czech Republic,PIRÁTI,Greens/EFA,2
+50,Croatia,-,NI,1
+38,Czech Republic,Komunistická strana Čech a Moravy,The Left,1
+63,Poland,Platforma Obywatelska,EPP,1
+52,Poland,Prawo i Sprawiedliwość,ECR,1
+29,Germany,Freie Demokratische Partei,REG,1
+44,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+62,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+66,Greece,Coalition of the Radical Left,The Left,2
+57,Greece,Coalition of the Radical Left,The Left,2
+39,Czech Republic,Ano 2011,REG,1
+52,Bulgaria,Citizens for European Development of Bulgaria,EPP,1
+42,Germany,Alternative für Deutschland,IDG,2
+66,Poland,Prawo i Sprawiedliwość,ECR,1
+63,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+60,Poland,Prawo i Sprawiedliwość,ECR,1
+63,Lithuania,Tėvynės sąjunga-Lietuvos krikščionys demokratai,EPP,3
+48,Sweden,Miljöpartiet de gröna,Greens/EFA,2
+63,Germany,Alternative für Deutschland,IDG,2
+47,Finland,Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti,S&D,2
+63,Poland,Prawo i Sprawiedliwość,ECR,1
+67,Greece,Independent,REG,1
+34,Bulgaria,Movement for Rights and Freedoms,REG,2
+44,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+47,Greece,Independent,NI,2
+40,France,Place publique,S&D,2
+56,Belgium,Ecologistes Confédérés pour l'Organisation de Luttes Originales,Greens/EFA,2
+54,Italy,Lega,IDG,2
+64,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+44,Netherlands,Christen Democratisch Appèl,EPP,2
+40,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+41,France,Rassemblement national,IDG,1
+55,France,Nouvelle Donne,S&D,2
+61,France,Rassemblement national,IDG,1
+42,France,Rassemblement national,IDG,1
+67,Portugal,Partido Socialista,S&D,2
+35,Netherlands,Christen Democratisch Appèl,EPP,2
+68,Poland,Platforma Obywatelska,EPP,1
+54,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+53,Germany,Alternative für Deutschland,IDG,2
+42,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+52,Italy,Lega,IDG,2
+55,France,Liste Renaissance,REG,2
+55,Denmark,"Venstre, Danmarks Liberale Parti",REG,2
+48,United Kingdom,Alliance Party of Northern Ireland,REG,2
+34,Spain,Partit dels Socialistes de Catalunya,S&D,2
+58,Spain,Partido Socialista Obrero Español,S&D,2
+75,Spain,Partido Popular,EPP,2
+49,Spain,Partido Popular,EPP,2
+62,United Kingdom,The Brexit Party,NI,1
+39,Spain,Partido Socialista Obrero Español,S&D,2
+53,Poland,Platforma Obywatelska,EPP,1
+56,Sweden,Sverigedemokraterna,ECR,2
+49,Belgium,,EPP,2
+48,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+60,Ireland,Fine Gael Party,EPP,2
+65,United Kingdom,Conservative Party,ECR,1
+48,United Kingdom,Scottish National Party,Greens/EFA,2
+28,Estonia,Eesti Konservatiivne Rahvaerakond,IDG,2
+44,Spain,Partido Socialista Obrero Español,S&D,2
+30,United Kingdom,Green Party,Greens/EFA,2
+46,Italy,Partito Democratico,S&D,2
+61,Lithuania,Independent,EPP,3
+29,Spain,Partido Socialista Obrero Español,S&D,2
+44,Romania,Partidul Social Democrat,S&D,2
+63,Netherlands,Christen Democratisch Appèl,EPP,2
+40,Austria,Österreichische Volkspartei,EPP,1
+61,France,Rassemblement national,IDG,1
+67,Romania,Partidul Naţional Liberal,EPP,1
+32,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+65,Portugal,Partido Socialista,S&D,2
+43,Portugal,Partido Socialista,S&D,2
+51,Italy,Forza Italia,EPP,1
+57,Croatia,Socijaldemokratska partija Hrvatske,S&D,2
+46,France,Gauche républicaine et socialiste,The Left,2
+57,Cyprus,Democratic Party,S&D,2
+51,Czech Republic,Independent,S&D,1
+33,Bulgaria,Citizens for European Development of Bulgaria,EPP,1
+46,Austria,Freiheitliche Partei Österreichs,IDG,3
+52,Poland,Prawo i Sprawiedliwość,ECR,1
+65,Lithuania,Tėvynės sąjunga-Lietuvos krikščionys demokratai,EPP,1
+66,Greece,Nea Demokratia,EPP,2
+48,Latvia,Nacionālā apvienība 'Visu Latvijai!'-'Tēvzemei un Brīvībai/LNNK',ECR,1
+69,France,Rassemblement national,IDG,1
+52,Luxembourg,Déi Gréng - Les Verts,Greens/EFA,2
+58,Germany,Independent,NI,2
+64,Germany,DIE LINKE.,The Left,2
+46,Estonia,Sotsiaaldemokraatlik Erakond,S&D,2
+42,Italy,Fratelli d'Italia,ECR,1
+64,Spain,Partido Popular,EPP,2
+62,United Kingdom,Conservative Party,ECR,1
+43,Finland,Vasemmistoliitto,The Left,2
+47,United Kingdom,Liberal Democrats,REG,2
+44,Hungary,Demokratikus Koalíció,S&D,2
+61,United Kingdom,The Brexit Party,NI,1
+46,Spain,Partido Popular,EPP,2
+54,United Kingdom,Labour Party,S&D,2
+56,France,Les Républicains,EPP,2
+54,Spain,Partido Socialista Obrero Español,S&D,2
+46,Italy,Partito Democratico,S&D,2
+49,Romania,Partidul Naţional Liberal,EPP,1
+44,Poland,Prawo i Sprawiedliwość,ECR,1
+57,Germany,Freie Wähler,REG,1
+38,Romania,Partidul Naţional Liberal,EPP,1
+39,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,2
+72,Spain,Independiente,REG,2
+46,United Kingdom,Liberal Democrats,REG,2
+35,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+70,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+78,United Kingdom,Liberal Democrats,REG,2
+59,Romania,Partidul Social Democrat,S&D,2
+56,Germany,Christlich-Soziale Union in Bayern e.V.,EPP,1
+53,Czech Republic,TOP 09 a Starostové,EPP,2
+43,Finland,Vihreä liitto,Greens/EFA,2
+34,Greece,Communist Party of Greece,NI,3
+60,Slovenia,Nova Slovenija – Krščanski demokrati,EPP,3
+31,Bulgaria,Citizens for European Development of Bulgaria,EPP,1
+57,Ireland,Green Party,Greens/EFA,2
+41,Germany,Freie Demokratische Partei,REG,1
+64,Lithuania,Lietuvos socialdemokratų partija,S&D,2
+58,France,Rassemblement national,IDG,1
+50,France,La France Insoumise,The Left,2
+45,Estonia,Eesti Reformierakond,REG,2
+54,Spain,Delegación Ciudadanos Europeos,REG,2
+38,United Kingdom,Labour Party,S&D,2
+37,Italy,Lega,IDG,2
+53,Cyprus,Movement for Social Democracy EDEK,S&D,2
+44,Greece,Communist Party of Greece,NI,3
+64,Greece,Coalition of the Radical Left,The Left,2
+57,United Kingdom,The Brexit Party,NI,1
+52,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+50,Italy,Independent,Greens/EFA,2
+57,Belgium,Christen-Democratisch & Vlaams,EPP,2
+72,Finland,Suomen Keskusta,REG,2
+33,Czech Republic,PIRÁTI,Greens/EFA,2
+43,France,La France Insoumise,The Left,2
+31,Bulgaria,Bulgarian Socialist Party,S&D,2
+42,Portugal,Partido Comunista Português,The Left,2
+28,Portugal,Partido Social Democrata,EPP,2
+21,Denmark,Socialistisk Folkeparti,Greens/EFA,2
+53,Denmark,Det Radikale Venstre,REG,2
+34,United Kingdom,Green Party,Greens/EFA,2
+38,Italy,Partito Democratico,S&D,2
+58,Croatia,Socijaldemokratska partija Hrvatske,S&D,2
+56,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+60,Finland,Kansallinen Kokoomus,EPP,2
+36,Italy,Movimento 5 Stelle,NI,2
+54,Spain,Izquierda Unida,The Left,2
+44,France,,NI,1
+40,Netherlands,Partij van de Arbeid,S&D,2
+70,Italy,Independent,S&D,2
+43,Romania,Uniunea Salvați România,REG,1
+55,Portugal,Partido Socialista,S&D,2
+59,Romania,Partidul Social Democrat,S&D,2
+39,Czech Republic,Starostové a nezávisli,EPP,2
+48,Sweden,Moderaterna,EPP,2
+46,Poland,Prawo i Sprawiedliwość,ECR,1
+32,United Kingdom,Liberal Democrats,REG,2
+44,Czech Republic,TOP 09 a Starostové,EPP,2
+43,Italy,Fratelli d'Italia,ECR,1
+66,Slovakia,Slovak PATRIOT,NI,2
+40,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+30,Netherlands,Democraten 66,REG,2
+64,Poland,Prawo i Sprawiedliwość,ECR,1
+51,Portugal,Partido Social Democrata,EPP,2
+53,Austria,Sozialdemokratische Partei Österreichs,S&D,2
+46,Spain,Izquierda Unida,The Left,2
+49,Germany,Alternative für Deutschland,IDG,2
+32,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+30,Croatia,Hrvatska demokratska zajednica,EPP,1
+44,Spain,Esquerra Republicana de Catalunya,Greens/EFA,2
+60,Belgium,Mouvement Réformateur,REG,2
+64,Italy,Lega,IDG,2
+73,France,Mouvement Radical Social-Libéral,REG,2
+66,France,Europe Écologie,Greens/EFA,2
+55,France,,NI,1
+72,Italy,Partito Democratico,S&D,2
+61,Spain,Partido Socialista Obrero Español,S&D,2
+49,Spain,PODEMOS,The Left,2
+56,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
+31,Hungary,Demokratikus Koalíció,S&D,2
+52,Italy,Movimento 5 Stelle,NI,2
+50,Netherlands,JA21,ECR,2
+53,Netherlands,JA21,ECR,2
+51,France,Europe Écologie,Greens/EFA,2
+64,Lithuania,Lietuvos valstiečių ir žaliųjų sąjunga,Greens/EFA,2
+58,France,Rassemblement national,IDG,1
+63,United Kingdom,Green Party,Greens/EFA,2
+53,United Kingdom,The Brexit Party,NI,1
+47,Netherlands,Staatkundig Gereformeerde Partij,ECR,1
+41,Spain,Partido Socialista Obrero Español,S&D,2
+58,Poland,Prawo i Sprawiedliwość,ECR,1
+46,Italy,Forza Italia,EPP,1
+59,Spain,Partido Socialista Obrero Español,S&D,2
+46,France,Les Républicains,EPP,2
+71,Malta,Partit Laburista,S&D,2
+51,Portugal,Partido Socialista,S&D,2
+37,Italy,Lega,IDG,2
+59,Finland,Kansallinen Kokoomus,EPP,1
+71,Poland,Prawo i Sprawiedliwość,ECR,1
+44,France,Europe Écologie,Greens/EFA,2
+52,Denmark,Socialdemokratiet,S&D,2
+50,Austria,Sozialdemokratische Partei Österreichs,S&D,2
+44,Germany,DIE LINKE.,The Left,2
+45,Austria,Österreichische Volkspartei,EPP,1
+66,Luxembourg,Parti ouvrier socialiste luxembourgeois,S&D,2
+47,Germany,Christlich Demokratische Union Deutschlands,EPP,3
+65,Germany,DIE LINKE.,The Left,2
+66,Netherlands,Christen Democratisch Appèl,EPP,2
+36,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,2
+57,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+46,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+47,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+34,France,La République en marche,REG,2
+35,Luxembourg,Indépendent,REG,2
+33,Germany,Independent,Greens/EFA,2
+44,Austria,Sozialdemokratische Partei Österreichs,S&D,2
+56,Poland,Platforma Obywatelska,EPP,1
+57,Portugal,Partido Socialista,S&D,2
+35,Slovakia,Progresívne Slovensko,REG,2
+41,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+29,Croatia,Živi Zid,NI,2
+59,Bulgaria,VMRO,ECR,1
+53,Italy,Partito Democratico,S&D,2
+46,United Kingdom,Scottish National Party,Greens/EFA,2
+56,Czech Republic,Křesťanská a demokratická unie - Československá strana lidová,EPP,2
+48,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
+54,Germany,Die PARTEI,NI,2
+43,Poland,Independent,Greens/EFA,2
+54,Greece,Nea Demokratia,EPP,2
+69,Italy,Fratelli d'Italia,ECR,1
+53,Bulgaria,Bulgarian Socialist Party,S&D,2
+45,United Kingdom,Independent,NI,3
+58,Slovakia,Kresťanskodemokratické hnutie,EPP,2
+49,Sweden,Sverigedemokraterna,ECR,2
+58,Netherlands,GroenLinks,Greens/EFA,2
+62,Croatia,Hrvatska demokratska zajednica,EPP,2
+58,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,EPP,1
+56,Poland,Prawo i Sprawiedliwość,ECR,1
+66,Italy,Forza Italia,EPP,1
+52,Netherlands,Partij van de Arbeid,S&D,2
+56,Belgium,Parti Socialiste,S&D,2
+40,Italy,Lega,IDG,2
+47,Netherlands,Partij van de Arbeid,S&D,2
+33,United Kingdom,The Brexit Party,NI,1
+41,Romania,Partidul Naţional Ţaranesc Creştin Democrat,ECR,3
+61,Spain,Vox,ECR,1
+37,Austria,Österreichische Volkspartei,EPP,1
+65,Poland,,REG,3
+45,Italy,Partito Democratico,S&D,2
+41,Sweden,Moderaterna,EPP,2
+54,Poland,Prawo i Sprawiedliwość,ECR,1
+69,Italy,Partito Democratico,S&D,2
+52,France,Liste Renaissance,REG,2
+54,Lithuania,Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga,ECR,1
+61,Croatia,Hrvatska konzervativna stranka,ECR,1
+54,Slovenia,Slovenska demokratska stranka,EPP,2
+53,Estonia,Eesti Keskerakond,REG,2
+74,Finland,Svenska folkpartiet,REG,2
+63,Czech Republic,Občanská demokratická strana,ECR,1
+44,Hungary,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt,NI,1
+32,France,Europe Écologie,Greens/EFA,2
+32,Italy,Lega,IDG,2
+62,France,Liste Renaissance,REG,2
+44,Romania,Uniunea Salvați România,REG,1
+52,Romania,Partidul Social Democrat,S&D,2
+35,Slovakia,Hnutie Republika,NI,3
+39,Spain,ANTICAPITALISTAS,The Left,2
+37,Spain,Catalunya en Comú,Greens/EFA,2
+43,Latvia,'Saskaņa' sociāldemokrātiskā partija,S&D,2
+60,Lithuania,Darbo partija,NI,2
+67,Latvia,Partija 'VIENOTĪBA',EPP,2
+50,Austria,Die Grünen - Die Grüne Alternative,Greens/EFA,2
+50,Belgium,Socialistische Partij.Anders,S&D,2
+41,Belgium,Vlaams Belang,IDG,2
+64,Belgium,Nieuw-Vlaamse Alliantie,ECR,1
+30,Netherlands,GroenLinks,Greens/EFA,2
+47,Belgium,Open Vlaamse Liberalen en Democraten,REG,2
+37,France,Mouvement Démocrate,REG,2
+55,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+53,Austria,Freiheitliche Partei Österreichs,IDG,3
+39,Spain,PODEMOS,The Left,2
+36,Denmark,Enhedslisten,The Left,2
+42,Romania,Uniunea Democrată Maghiară din România,EPP,1
+49,Denmark,Socialdemokratiet,S&D,2
+37,Bulgaria,Bulgarian Socialist Party,S&D,2
+51,United Kingdom,Liberal Democrats,REG,2
+57,Austria,Sozialdemokratische Partei Österreichs,S&D,2
+49,Germany,Bündnis 90/Die Grünen,Greens/EFA,2
+52,United Kingdom,Liberal Democrats,REG,2
+56,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+54,Czech Republic,Občanská demokratická strana,ECR,1
+56,Italy,Forza Italia,EPP,2
+64,Ireland,Independents for change,The Left,2
+32,Ireland,Fine Gael Party,EPP,2
+56,Germany,Christlich Demokratische Union Deutschlands,EPP,1
+50,Sweden,Moderaterna,EPP,2
+62,United Kingdom,Labour Party,S&D,2
+62,Poland,Prawo i Sprawiedliwość,ECR,1
+37,Sweden,Sverigedemokraterna,ECR,2
+51,Denmark,Det Konservative Folkeparti,EPP,2
+62,Germany,Christlich Demokratische Union Deutschlands,EPP,2
+57,Austria,Die Grünen - Die Grüne Alternative,Greens/EFA,2
+40,Slovakia,Progresívne Slovensko,REG,2
+55,Romania,Uniunea Democrată Maghiară din România,EPP,1
+56,Austria,Österreichische Volkspartei,EPP,1
+58,Luxembourg,Parti chrétien social luxembourgeois,EPP,2
+56,Poland,Prawo i Sprawiedliwość,ECR,1
+34,Germany,Sozialdemokratische Partei Deutschlands,S&D,2
+33,Netherlands,Partij van de Arbeid,S&D,2
+48,France,Europe Écologie,REG,2
+45,France,Liste Renaissance,REG,2
+55,Bulgaria,Bulgarian Socialist Party,S&D,2
+43,France,La République en marche,REG,2
+48,Greece,Nea Demokratia,EPP,2
+56,Czech Republic,Občanská demokratická strana,ECR,1
+54,Poland,Prawo i Sprawiedliwość,ECR,1
+48,Italy,Lega,IDG,2
+33,Italy,Lega,IDG,2
+59,Spain,Partido Popular,EPP,2
+69,Latvia,Latvijas Krievu savienība,NI,2
+40,Czech Republic,Křesťanská a demokratická unie - Československá strana lidová,EPP,2
+61,Latvia,Nacionālā apvienība 'Visu Latvijai!'-'Tēvzemei un Brīvībai/LNNK',ECR,1
+66,Germany,Alternative für Deutschland,IDG,2
+55,Poland,Prawo i Sprawiedliwość,ECR,1
+62,Spain,Partido Popular,EPP,2
+60,Portugal,Partido Socialista,S&D,2
+49,Croatia,Hrvatska demokratska zajednica,EPP,2
+41,Italy,Independent,REG,2
+57,Slovenia,Slovenska demokratska stranka,EPP,1
+53,Italy,Italia Viva,REG,2

@@ -1,4 +1,5 @@
 import csv 
+import os
 
 def load_csv (path) :
 
@@ -30,3 +31,24 @@ def charger_csv(data, path):
         # Écriture de la liste dans le fichier CSV
         for ligne in fichier:
             ecrivain_csv.writerow(ligne)
+
+def new_csv(data, numeroVote):
+
+    # Nom du fichier CSV à créer
+    nom_fichier = "vote_" + str(numeroVote) + ".csv"
+
+    
+
+    # Ouvrir le fichier CSV en mode écriture
+    fichier_csv = open(nom_fichier, mode='w', newline='')
+
+    # Créer un objet writer CSV
+    writer = csv.writer(fichier_csv)
+
+    # Écrire les données dans le fichier CSV
+    for ligne in data:
+        writer.writerow(ligne)
+
+    # Fermer le fichier CSV
+    fichier_csv.close()
+    
