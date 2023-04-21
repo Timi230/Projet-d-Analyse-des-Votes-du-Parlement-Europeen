@@ -19,7 +19,7 @@ Age,Country,Party,EPG,Vote
 56,Lithuania,Lietuvos Respublikos liberalų sąjūdis,REG,2
 43,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,2
 49,Italy,Lega,IDG,2
-46,Poland,,S&D,1
+46,Poland,None,S&D,1
 24,France,Rassemblement national,IDG,2
 51,Germany,Sozialdemokratische Partei Deutschlands,S&D,3
 52,Italy,Lega,IDG,2
@@ -27,7 +27,7 @@ Age,Country,Party,EPG,Vote
 33,Italy,Partito Democratico,S&D,3
 51,Slovakia,SMER-Sociálna demokracia,S&D,3
 36,Netherlands,Christen Democratisch Appèl,EPP,2
-43,Poland,,S&D,1
+43,Poland,None,S&D,1
 58,Spain,Partido Nacionalista Vasco,REG,2
 44,Slovakia,SPOLU – občianska demokracia,EPP,2
 58,Germany,Sozialdemokratische Partei Deutschlands,S&D,3
@@ -229,7 +229,7 @@ Age,Country,Party,EPG,Vote
 32,Germany,Bündnis 90/Die Grünen,Greens/EFA,1
 60,Belgium,Mouvement Réformateur,REG,2
 73,France,Mouvement Radical Social-Libéral,REG,2
-55,France,,NI,2
+55,France,None,NI,2
 61,Spain,Partido Socialista Obrero Español,S&D,3
 56,Spain,Ciudadanos – Partido de la Ciudadanía,REG,2
 50,Netherlands,JA21,ECR,2

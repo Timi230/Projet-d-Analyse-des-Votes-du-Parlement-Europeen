@@ -21,7 +21,11 @@ def traitementVote(csv, fichier_vote , numeroVote):
             age.append(str(annee_vote-age_depute))
             
             pays.append(csv[i][6])
-            parti.append(csv[i][7])
+
+            if (csv[i][7]=="") or (csv[i][7]==" ") :
+                parti.append("None")
+            else :
+                parti.append(csv[i][7])
 
             if (csv[i][8]=="") or (csv[i][8]==" ") :
                 parti_E.append("None")
@@ -57,7 +61,7 @@ if __name__ == "__main__":
     os.chdir(repo_dir)
     
     
-    for i in range(852,len(fichier_vote)-1):
+    for i in range(1,len(fichier_vote)-1):
     
         chargement_fichier_vote(fichier,fichier_vote,i)
         

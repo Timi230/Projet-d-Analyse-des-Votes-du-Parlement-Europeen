@@ -33,7 +33,7 @@ Age,Country,Party,EPG,Vote
 53,Romania,Partidul Social Democrat,S&D,3
 43,Netherlands,Volkspartij voor Vrijheid en Democratie,REG,1
 49,Italy,Lega,IDG,2
-46,Poland,,S&D,1
+46,Poland,None,S&D,1
 24,France,Rassemblement national,IDG,2
 51,Germany,Sozialdemokratische Partei Deutschlands,S&D,1
 54,Spain,EH BILDU,The Left,1
@@ -53,7 +53,7 @@ Age,Country,Party,EPG,Vote
 50,Germany,Christlich Demokratische Union Deutschlands,EPP,2
 54,Sweden,Arbetarepartiet- Socialdemokraterna,S&D,1
 27,Austria,Österreichische Volkspartei,EPP,2
-45,Poland,,ECR,2
+45,Poland,None,ECR,2
 49,France,La République en marche,REG,1
 58,Spain,Partido Nacionalista Vasco,REG,1
 44,Slovakia,SPOLU – občianska demokracia,EPP,2
@@ -74,7 +74,7 @@ Age,Country,Party,EPG,Vote
 39,Belgium,Parti du Travail de Belgique,The Left,1
 33,Romania,Uniunea Salvați România,REG,1
 68,Belgium,Nieuw-Vlaamse Alliantie,ECR,2
-48,France,,REG,1
+48,France,None,REG,1
 42,Germany,Piratenpartei Deutschland,Greens/EFA,1
 52,Slovenia,Socialni demokrati,S&D,1
 34,Belgium,Ecologistes Confédérés pour l'Organisation de Luttes Originales,Greens/EFA,1
@@ -304,7 +304,7 @@ Age,Country,Party,EPG,Vote
 56,Poland,Prawo i Sprawiedliwość,ECR,2
 35,Czech Republic,Ano 2011,REG,3
 29,Denmark,Dansk Folkeparti,IDG,2
-37,Poland,,S&D,1
+37,Poland,None,S&D,1
 33,Sweden,Moderaterna,EPP,2
 49,Greece,Coalition of the Radical Left,The Left,1
 39,Czech Republic,PIRÁTI,Greens/EFA,1
@@ -338,7 +338,7 @@ Age,Country,Party,EPG,Vote
 42,France,Rassemblement national,IDG,2
 46,Sweden,Kristdemokraterna,EPP,2
 35,Netherlands,Christen Democratisch Appèl,EPP,2
-71,Poland,,S&D,1
+71,Poland,None,S&D,1
 54,Germany,Christlich Demokratische Union Deutschlands,EPP,2
 42,Germany,Christlich Demokratische Union Deutschlands,EPP,2
 52,Italy,Lega,IDG,2
@@ -351,7 +351,7 @@ Age,Country,Party,EPG,Vote
 39,Spain,Partido Socialista Obrero Español,S&D,1
 53,Poland,Platforma Obywatelska,EPP,2
 56,Sweden,Sverigedemokraterna,ECR,2
-49,Belgium,,EPP,1
+49,Belgium,None,EPP,1
 65,United Kingdom,Conservative Party,ECR,2
 48,United Kingdom,Scottish National Party,Greens/EFA,1
 44,Spain,Partido Socialista Obrero Español,S&D,1
@@ -386,7 +386,7 @@ Age,Country,Party,EPG,Vote
 62,Bulgaria,Movement for Rights and Freedoms,REG,1
 46,Estonia,Sotsiaaldemokraatlik Erakond,S&D,1
 64,Spain,Partido Popular,EPP,2
-73,Poland,,S&D,1
+73,Poland,None,S&D,1
 62,United Kingdom,Conservative Party,ECR,1
 47,United Kingdom,Liberal Democrats,REG,1
 44,Hungary,Demokratikus Koalíció,S&D,1
@@ -468,7 +468,7 @@ Age,Country,Party,EPG,Vote
 73,France,Mouvement Radical Social-Libéral,REG,1
 62,United Kingdom,Liberal Democrats,REG,1
 66,France,Europe Écologie,Greens/EFA,1
-55,France,,NI,2
+55,France,None,NI,2
 49,Spain,PODEMOS,The Left,1
 56,Spain,Ciudadanos – Partido de la Ciudadanía,REG,1
 31,Hungary,Demokratikus Koalíció,S&D,1
@@ -537,7 +537,7 @@ Age,Country,Party,EPG,Vote
 33,United Kingdom,The Brexit Party,NI,2
 61,Spain,Vox,ECR,2
 37,Austria,Österreichische Volkspartei,EPP,2
-65,Poland,,REG,1
+65,Poland,None,REG,1
 45,Italy,Partito Democratico,S&D,1
 41,Sweden,Moderaterna,EPP,2
 54,Poland,Prawo i Sprawiedliwość,ECR,2
