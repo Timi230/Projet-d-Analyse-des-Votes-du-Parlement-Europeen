@@ -21,7 +21,7 @@ def charger_csv(data, path):
     fichier = load_csv(path)
 
     for i in range(1, len(fichier)):
-        fichier[i][4] = data[i-1]
+        fichier[i][7] = data[i-1]
 
     with open(path, mode='w', newline='') as  fichier_csv:
 

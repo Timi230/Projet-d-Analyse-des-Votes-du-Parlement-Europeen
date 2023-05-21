@@ -4,7 +4,7 @@ from lib import *
 
 
 
-fichier = load_csv("./data/EP9_RCVs_2022_06_22.csv")
+fichier = load_csv("scrapping/data/EP9_RCVs_2022_06_22.csv")
 
 id_deputes = []
 
@@ -34,7 +34,7 @@ for i in range(0,len(id_deputes)):
 
 print("\n Fin du scrapping et début de l'écriture")
 
-charger_csv(age, './data/depute_date.csv')
+#charger_csv(age, './data/depute_date.csv')
 
 print("\n Fin du programme")
 

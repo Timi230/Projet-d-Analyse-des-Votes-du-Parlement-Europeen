@@ -10,6 +10,7 @@ def traitementVote(csv, fichier_vote , numeroVote):
     age = []
     pays = []
     parti = []
+    bords = []
     parti_E = []
 
     for i in range(1,len(csv)):
@@ -20,19 +21,21 @@ def traitementVote(csv, fichier_vote , numeroVote):
             age_depute = int(csv[i][4][:4])
             age.append(str(annee_vote-age_depute))
             
-            pays.append(csv[i][6])
+            pays.append(csv[i][5])
 
-            if (csv[i][7]=="") or (csv[i][7]==" ") :
-                parti.append("None")
-            else :
-                parti.append(csv[i][7])
+            # if (csv[i][6]=="") or (csv[i][6]==" ") :
+            #     parti.append("None")
+            # else :
+            #     parti.append(csv[i][6])
+
+            bords.append(csv[i][7])
 
             if (csv[i][8]=="") or (csv[i][8]==" ") :
                 parti_E.append("None")
             else :
                 parti_E.append(csv[i][8])
     
-    return age, pays, parti, parti_E, vote
+    return age, pays, bords, parti_E, vote
 
 def format_csv(age, pays, parti, parti_E, vote, numeroVote):
 
